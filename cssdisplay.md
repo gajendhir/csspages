@@ -30,7 +30,14 @@ The property display provides several values that allow you to control the flow 
 
 /* other values */
 * `table`
-* `table-row` /* all table elements have an equivalent CSS display value */
+* `table-row` 
+* `table-row-group` 
+* `table-column`
+* `table-column-group`
+* `table-cell`
+* `table-caption`
+* `table-header-group`
+* `table-footer-group`
 * `list-item`
 
 /* Global values */

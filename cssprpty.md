@@ -1,4 +1,4 @@
-# CSS Property Values
+# CSS default Browser Values
 
 ## Implied values
 
