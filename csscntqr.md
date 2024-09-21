@@ -8,13 +8,20 @@ Register an element as a `container`.
 .parent {
     container-name: myname;
     container-type: inline-size;
+    ... other code
 }
+
 ```
 
 or, use the shorthand option
 
 ```CSS
-container: myname / inline-size;
+
+.parent {
+    container: myname / inline-size;
+    ... other code
+}
+
 ```
 
 ## Query a Container
