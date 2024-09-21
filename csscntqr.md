@@ -5,6 +5,7 @@
 Register an element as a `container`.
 
 ```CSS
+
 .parent {
     container-name: myname;
     container-type: inline-size;
@@ -65,7 +66,7 @@ size-query supports...
 * `aspect-ratio`
 * `orientation`
 
-style-feature
+style-query
 
 * `style(property: value)`
 

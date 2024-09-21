@@ -25,19 +25,25 @@ The flex layout is initiated with the `display: flex;` property and effects the 
 
 ## properties of the flex group
 
-At parent level...
+flex has properties that allow control at both levels 
+
+### At parent (or container) element...
 
 * justify-content
 * align-items
 * place-items
 * flex-direction
 * flex-wrap
+* gap, row-gap, column-gap
 
-At child level...
+### At child elements...
 
 * flex
 * flex-basis
 * flex-shrink
 * flex-grow
-* align-self
 * order
+* align-self
+* justify-self
+* place-self
+

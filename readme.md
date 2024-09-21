@@ -16,4 +16,6 @@ This is just a compilation of related items in CSS.
 * [Functions in CSS](./cssfuncs.md)
 * [Default Browser Values](./cssprpty.md)
 * [At Rules in CSS](./cssatrule.md)
-* [New Features is CSS](./cssnewft.md)
+* [New Features in CSS](./cssnewft.md)
+* [flex in CSS](./cssflex.md)
+
