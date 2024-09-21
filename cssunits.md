@@ -2,7 +2,7 @@
 
 # Units in CSS
 
-## Size, Length and Distance
+## Relative Units
 
 ### Font Related
 
@@ -10,13 +10,15 @@
 
 ### Viewpoart Related
 
-`vw`, `vh`, `vmin`, `vmax`
+`%`, `vw`, `vh`, `vmin`, `vmax`
 
 ### Container Query Related
 
-cqw, cqh, cqi, cqb, cqmin, cqmax
+`cqw`, `cqh`, `cqi`, `cqb`, `cqmin`, `cqmax`
 
-### Absolute Units
+## Absolute Units
+
+### Length
 
 `cm`, `mm`, `Q`, `in`, `pt`, `pc`, `px`
 
