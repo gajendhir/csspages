@@ -1,6 +1,6 @@
 # CSS Notes
 
-![logo](./dslogo.png)
+<img src='./dslogo.png' align='right' width='100' alt='logo'/>
 
 There are so many sites explaining in detail how to use the different features of CSS, and I am not trying to do anything like that.
 

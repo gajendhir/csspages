@@ -1,6 +1,8 @@
+[Home](./readme.md) 
+
 # Variables or Custom Properties in CSS
 
-## Declare 
+## Declare and Assign Varaiables
 
 ### use -- (2 dashes)
 
@@ -39,3 +41,5 @@ The value in the custom variable can be referenced by using it with a var().
 
 ```
 
+
+[Home](./readme.md)

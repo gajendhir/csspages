@@ -1,3 +1,5 @@
+[Home](./readme.md) 
+
 # Layout in CSS
 
 Layout defines where the different elements will appear on the browser. 
@@ -25,10 +27,12 @@ Layout defines where the different elements will appear on the browser.
 Values of the property display that allow you to create a table-layout
 
 
-
 ## Flex Layout
 
 
 
 
 ## Grid Layout
+
+
+[Home](./readme.md)

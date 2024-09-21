@@ -1,54 +1,185 @@
+[Home](./readme.md) 
+
 # Functions in CSS
 
-## CSS Functions
+Functions in CSS can be grouped...
 
-* `calc`
-* `max`
-* `min`
-* `minmax`
-* `clamp`
+- [Transform Functions](#transform)
+- [Math Functions](#math-functions)
+- [Filter Functions](#filter-functions)
+- [Color Functions](#color-functions)
+- [Image Functions](#image-functions)
+- [Counter Functions](#counter-functions)
+- [Shape Functions](#shape-functions)
+- [Reference Functions](#reference-functions)
+- [Grid Functions](#grid-functions)
+- [Font Functions](#font-functions)
+- [Animation Functions](#animation-function)
+- [Anchor Positioning Functions](#anchor-positioning)
+
+## Transform
+
+- `translateX`
+- `translateY`
+- `translateZ`
+- `translate`
+- `translate3d`
+
+/- Rotate -/
+
+- `rotateX`
+- `rotateY`
+- `rotateZ`
+- `rotate`
+- `rotate3d`
+
+/- Scaling -/
+
+- `scaleX`
+- `scaleY`
+- `scaleZ`
+- `scale`
+- `scale3d`
+
+/- Skew -/ 
+
+- `skewX`
+- `skewY`
+- `skew`
+
+/- Matrix -/
+
+- `matrix`
+- `matrix3d`
 
 ## Math Functions
 
-* round
-* mod
-* rem
+- `calc`
+- `max`
+- `min`
+- `minmax`
+- `clamp`
 
-* sin
-* cos
-* tan
-* asin
-* acos
-* atan
-* atan2
+- `round`
+- `mod`
+- `rem`
 
-* pow
-* sqrt
-* hypot
-* log
-* exp
+- `sin`
+- `cos`
+- `tan`
+- `asin`
+- `acos`
+- `atan`
+- `atan2`
 
-* abs
-* sign
+- `pow`
+- `sqrt`
+- `hypot`
+- `log`
+- `exp`
+
+- `abs`
+- `sign`
+
+## Filter Functions
+
+- `blur`
+- `brightness`
+- `contrast`
+- `drop-shadow`
+- `grayscale`
+- `hue-rotate`
+- `invert`
+- `opacity`
+- `saturate`
+- `sepia`
+
+## Image Functions
+
+- `image`
+- `image-set`
+- `cross-fade`
+- `element`
+- `paint`
 
 ## Gradient Functions
 
-* linear-gradient
-* radial-gradient
-* conic-gradient
-* repeating-linear-gradient
-* repeating-radial-gradient
+- `linear-gradient`
+- `radial-gradient`
+- `conic-gradient`
+- `repeating-linear-gradient`
+- `repeating-radial-gradient`
 
 ## Color Functions
 
-* hsl
-* hsla
-* rgb
-* rgba
+- `rgb`
+- `rgba`
+- `hsl`
+- `hsla`
+- `hwb`
+- `lab`
+- `lch`
+- `oklch`
+- `color`
+- `color-mix`
+- `color-contrast`
+- `device-cmyk`
+- `light-dark`
 
-## Other Functions
+## Counter Functions
 
-* attr
-* counter
-* var
-* url
+- `counter`
+- `counters`
+- `symbol`
+
+## Shape Functions
+
+- `circle`
+- `ellipse`
+- `inset`
+- `rect`
+- `xywh`
+- `polygon`
+- `path`
+- `shape`
+
+## Reference Functions
+
+- `attr`
+- `env`
+- `var`
+- `url`
+
+## Grid Functions
+
+- `fit-content`
+- `minmax`
+- `repeat`
+
+## Font Functions
+
+- `stylistic`
+- `styleset`
+- `character-variant`
+- `swash`
+- `ornaments`
+- `annotation`
+
+## Animation Function 
+
+- `scroll`
+- `view`
+
+/- Easing -/
+
+- `linear`
+- `cubic-bezier`
+- `steps`
+
+## Anchor Positioning
+
+- `anchor`
+- `anchor-size`
+
+
+[Home](./readme.md)

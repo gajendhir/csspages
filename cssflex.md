@@ -1,8 +1,10 @@
-# flex Layout in CSS
+[Home](./readme.md) 
 
-The flex layout is initiated with the `display: flex;` property and effects the children of the element having this property.
+# FlexBox Layout in CSS
 
-```CSS
+The **FlexBox layout** is initiated with the `display: flex;` property and effects the children of the element having this property.
+
+```css
 (CSS)
 .parent {
 	display: flex;
@@ -10,7 +12,7 @@ The flex layout is initiated with the `display: flex;` property and effects the 
 }
 ```
 
-```HTML
+```html
 (HTML)
 <div class='parent'>
 	<div class='child1'>
@@ -23,27 +25,29 @@ The flex layout is initiated with the `display: flex;` property and effects the 
 </div>
 ```
 
-## properties of the flex group
+## properties for the flexbox group
 
-flex has properties that allow control at both levels 
+Flexbox has some properties applicable at the parent and child levels that can be used to create innovative layouts. 
 
 ### At parent (or container) element...
 
-* justify-content
-* align-items
-* place-items
-* flex-direction
-* flex-wrap
-* gap, row-gap, column-gap
+* `justify-content`
+* `align-items`
+* `place-items`
+* `flex-direction`
+* `flex-wrap`
+* `gap`, `row-gap`, `column-gap`
 
 ### At child elements...
 
-* flex
-* flex-basis
-* flex-shrink
-* flex-grow
-* order
-* align-self
-* justify-self
-* place-self
+* `flex`
+* `flex-basis`
+* `flex-shrink`
+* `flex-grow`
+* `order`
+* `align-self`
+* `justify-self`
+* `place-self`
 
+
+[Home](./readme.md) 

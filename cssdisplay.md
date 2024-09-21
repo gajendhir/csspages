@@ -1,6 +1,8 @@
+[Home](./readme.md) 
+
 # Display in CSS
 
-The property display provides several values that allow you to control the flow of layout in interesting ways.
+The property *display* provides several values that allow you to control the flow of layout in interesting ways.
 
 ## List of values for `display`
 
@@ -46,3 +48,6 @@ The property display provides several values that allow you to control the flow 
 * `revert`
 * `revert-layer`
 * `unset`
+
+
+[Home](./readme.md)
