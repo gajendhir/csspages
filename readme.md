@@ -2,14 +2,18 @@
 
 ![logo](./dslogo.png)
 
-* [At Rules in CSS](./cssatrule.md)
+There are so many sites explaining in detail how to use the different features of CSS, and I am not trying to do anything like that.
+
+This is just a compilation of related items in CSS.
+
+* [Selectors in CSS](./cssslctr.md)
 * [display Property](./cssdisplay.md)
+* [Units in CSS](./cssunits.md)
 * [Media Queries](./cssmdaqr.md)
-* [Functions in CSS](./cssfuncs.md)
 * [Container Queries](./csscntqr.md)
 * [Layout in CSS](./csslayout.md)
 * [Custom Properties and Variables](./cssvars.md)
-* [Units in CSS](./cssunits.md)
-* [Selectors in CSS](./cssslctr.md)
+* [Functions in CSS](./cssfuncs.md)
 * [Default Browser Values](./cssprpty.md)
+* [At Rules in CSS](./cssatrule.md)
 * [New Features is CSS](./cssnewft.md)

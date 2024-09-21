@@ -1,10 +1,35 @@
 # Functions in CSS
 
-## Math Functions
+## CSS Functions
 
 * `calc`
 * `max`
 * `min`
+* `minmax`
+* `clamp`
+
+## Math Functions
+
+* round
+* mod
+* rem
+
+* sin
+* cos
+* tan
+* asin
+* acos
+* atan
+* atan2
+
+* pow
+* sqrt
+* hypot
+* log
+* exp
+
+* abs
+* sign
 
 ## Gradient Functions
 
