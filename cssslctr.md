@@ -12,6 +12,8 @@ Select elements based on name, id, class
 
 ## Combinators
 
+Selectors are combined to form combinators. Combinators are used define the specificity of the selector.
+
 ### Descendant Selector (space)
 
 ### Child Selector (>)
@@ -36,11 +38,13 @@ Select based on some state of an element
 
 ### CSS Pseudo-classes
 
+Pseudo-classes are classes that are recognized in the browser without explicitly being defined in the web-page 
+
 * `dir`(ltr | rtl) 
 * `empty`
 * `hover`
 * `has`(*selector*)
-* `is`()
+* `is`(*selector*)
 * `lang`(*language*)
 * `not`(*selector*)
 * `root`
@@ -48,6 +52,7 @@ Select based on some state of an element
 * `where`(*selector*)
 
 /* for child */
+
 * `first-child`
 * `last-child`
 * `nth-child`
@@ -55,6 +60,7 @@ Select based on some state of an element
 * `only-child`
 
 /* for of-type */
+
 * `first-of-type`
 * `last-of-type`
 * `nth-of-type`
@@ -62,6 +68,7 @@ Select based on some state of an element
 * `only-of-type`
 
 /* Input */
+
 * `checked`
 * `disabled`
 * `enabled`
@@ -79,6 +86,8 @@ Select based on some state of an element
 
 ## CSS Pseudo Elements
 
+Pseudo Elements are elements that the browser recognizes even though they are not defined in the web-page.
+
 * `::after`
 * `::before`
 * `::file-selector-button`
@@ -90,6 +99,18 @@ Select based on some state of an element
 * `::selection`
 * `::spelling-error`
 * `::target-text`
+
+* `::backdrop`
+* `::cue`
+* `::highlight`
+* `::part`
+* `::slotted`
+* `::view-transition`
+* `::view-transition-image-pair()`
+* `::view-transition-group()`
+* `::view-transition-new()`
+* `::view-transition-old()`
+
 
 
 [Home](./readme.md)

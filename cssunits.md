@@ -2,13 +2,17 @@
 
 # Units in CSS
 
+Values are regularly used in CSS, sometimes in absolute units and in other times in relative units.
+
+CSS provides a list of units from which you can select.
+
 ## Relative Units
 
 ### Font Related
 
 `em`, `ex`, `ch`, `rem`
 
-### Viewpoart Related
+### Viewport Related
 
 `%`, `vw`, `vh`, `vmin`, `vmax`
 
@@ -24,7 +28,7 @@
 
 ### Angles
 
-`def`, `grad`, `rad`, `turn`
+`deg`, `grad`, `rad`, `turn`
 
 ### Time
 

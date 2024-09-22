@@ -25,6 +25,19 @@ The **FlexBox layout** is initiated with the `display: flex;` property and effec
 </div>
 ```
 
+## Main and Cross Axes
+
+>The main and cross axes for flexbox is decided by the `flow-direction` property.
+
+`row` is the main axis by default.
+
+
+Default `width` is `100%` when main axis is row, and when the main axis is column the default `height` is the height required to render the content.
+
+
+
+
+
 ## properties for the flexbox group
 
 Flexbox has some properties applicable at the parent and child levels that can be used to create innovative layouts. 
@@ -36,14 +49,16 @@ Flexbox has some properties applicable at the parent and child levels that can b
 * `place-items`
 * `flex-direction`
 * `flex-wrap`
-* `gap`, `row-gap`, `column-gap`
+* `gap`
+* `row-gap`
+* `column-gap`
 
 ### At child elements...
 
 * `flex`
-* `flex-basis`
-* `flex-shrink`
 * `flex-grow`
+* `flex-shrink`
+* `flex-basis`
 * `order`
 * `align-self`
 * `justify-self`
