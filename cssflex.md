@@ -45,7 +45,10 @@ Flexbox has some properties applicable at the parent and child levels that can b
 ### At parent (or container) element...
 
 * `justify-content`
+* `justify-items`
+* `align-content`
 * `align-items`
+* `place-content`
 * `place-items`
 * `flex-direction`
 * `flex-wrap`
@@ -56,9 +59,9 @@ Flexbox has some properties applicable at the parent and child levels that can b
 ### At child elements...
 
 * `flex`
-* `flex-grow`
-* `flex-shrink`
-* `flex-basis`
+	* `flex-grow`
+	* `flex-shrink`
+	* `flex-basis`
 * `order`
 * `align-self`
 * `justify-self`
