@@ -18,6 +18,7 @@ This is a compilation of related items in CSS.
 * [New Features in CSS](./cssnewft.md)
 * [flex in CSS](./cssflex.md)
 * [Text Styling in CSS](./csstext.md)
+* [CSSOM](./cssom.md)
 
 There are many websites that explain, in varying level of detail, how to use the different properties of CSS.
 

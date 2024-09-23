@@ -15,7 +15,7 @@ indicates the location on the vertical axis
 indicates the position along views - to - screen axis.
 
 
-## CSSOM 
+## Cordinate System 
 
 CSSOM support 4 cordinate systems...
 
@@ -54,11 +54,11 @@ Screen is the entire physical device where the document is presented. A single p
 
 The cordinates of certain elements can be transformed. The transform operations supported are...
 
-* transform-origin
-* rotate
-* scale
-* translate
-* skew
-* perspective
+* `transform-origin`
+* `rotate`
+* `scale`
+* `translate`
+* `skew`
+* `perspective`
 
 Some of the transformations support operations in 3d also.

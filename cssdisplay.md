@@ -7,6 +7,7 @@ The property *display* provides several values that allow you to control the flo
 ## List of values for `display`
 
 /* precomposed values */
+
 * `block`
 * `inline`
 * `inline-block`
@@ -17,10 +18,12 @@ The property *display* provides several values that allow you to control the flo
 * `flow-root`
 
 /* box generation */
+
 * `none`
 * `contents`
 
 /* multi-keyword syntax */
+
 * `block flex`
 * `block flow`
 * `block flow-root`
@@ -31,6 +34,7 @@ The property *display* provides several values that allow you to control the flo
 * `inline grid`
 
 /* other values */
+
 * `table`
 * `table-row` 
 * `table-row-group` 
