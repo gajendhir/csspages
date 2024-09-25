@@ -13,16 +13,16 @@ The media queries allow us to determine the type of media (screen, printer, spee
 
 Standard screen width for responsive designs.
 
-* 320px or 480px (for mobile phones), 
-* 768px (for tablets), and 
-* 1024px (for small screens, laptops)
-* 1920px (for FHD screen computers)
+* `320px` or `480px` (for mobile phones), 
+* `768px` (for tablets), and 
+* `1024px` (for small screens, laptops)
+* `1920px` (for FHD screen computers)
 
 These are the general guidelines that I use when planning my responsive sites.
 
 ## Structure of Media Query
 
-The media query has four parts...
+The media query has parts of four types...
 
 `At-Rule` `MediaType` `MediaFeatures` `Operators`
 

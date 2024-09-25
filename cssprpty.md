@@ -1,6 +1,6 @@
 [Home](./readme.md) 
 
-# CSS default Browser Values
+# Inherit vs Initial in CSS
 
 ## Implied values
 
@@ -46,19 +46,19 @@ where default property values are set to computed values of parent value
 * `font`
 * `letter-spacing`
 * `line-height`
-* `list-style-image`
-* `list-style-position`
-* `list-style-type`
 * `list-style`
+    * `list-style-image`
+    * `list-style-position`
+    * `list-style-type`
 * `orphans`
 * `pitch-range`
 * `pitch`
 * `quotes`
 * `richness`
+* `speak`
 * `speak-header`
 * `speak-numeral`
 * `speak-punctuation`
-* `speak`
 * `speech-rate`
 * `stress`
 * `text-align`
