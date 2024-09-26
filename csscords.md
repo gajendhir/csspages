@@ -2,7 +2,7 @@
 
 Cordinates are used to indicate the location of a pixel in a graphics context. 
 
-## Dimensions
+## Dimensions and Origin
 
 ### x-cordinate
 
@@ -20,7 +20,7 @@ z-axis cordinates are handled differently for showing a graphic shape in 3d or f
 
 `z-index` property is used to decide which element will be shown above or below other overlapping elements. The element with the lowest z-index is recognized as the topmost layer and will be shown above all others.
 
-## Origin
+### Origin
 
 The position of each point is defined relative to a fixed point in the context. This fixed point is called **Origin**.
 

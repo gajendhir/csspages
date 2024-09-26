@@ -1,5 +1,7 @@
 # Text Styling in CSS
 
+This is cheat-sheet list of properties that decide how text is displayed. fonts, styles, alignment, spacing etc. 
+
 ## Fonts
 
 - `font-family`
@@ -16,14 +18,14 @@
 - `text-align`
 - `text-align-last`
 - `text-decoration`
-    - `text-decoration-color`
-    - `text-decoration-line`
-    - `text-decoration-style`
-    - `text-decoration-thickness`
+- `text-decoration-color`
+- `text-decoration-line`
+- `text-decoration-style`
+- `text-decoration-thickness`
 - `text-emphasis`
-    - `text-emphasis-color`
-    - `text-emphasis-position`
-    - `text-emphasis-style`
+- `text-emphasis-color`
+- `text-emphasis-position`
+- `text-emphasis-style`
 - `text-indent`
 - `text-justify`
 - `text-orientation`
@@ -50,3 +52,4 @@
 - `word-spacing`
 - `word-wrap`
 - `writing-mode`
+

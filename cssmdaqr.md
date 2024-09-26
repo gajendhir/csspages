@@ -86,5 +86,17 @@ Media query starts with `@media`
 
 Nested queries are supported
 
+```css
+
+@media screen and (max-width: 800px) {
+    ...
+
+    @media (orientation: portrait) {
+        ...
+    }
+}
+
+```
+
 
 [Home](./readme.md)
