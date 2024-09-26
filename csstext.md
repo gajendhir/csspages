@@ -1,3 +1,5 @@
+[Home](./readme.md) 
+
 # Text Styling in CSS
 
 This is cheat-sheet list of properties that decide how text is displayed. fonts, styles, alignment, spacing etc. 
@@ -53,3 +55,4 @@ This is cheat-sheet list of properties that decide how text is displayed. fonts,
 - `word-wrap`
 - `writing-mode`
 
+[Home](./readme.md) 

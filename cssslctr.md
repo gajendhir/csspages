@@ -4,7 +4,16 @@
 
 ## Introduction
 
-Selector is the first part of any CSS rule. This decides in what part of your HTML document the rule will be applied.
+Selector is the first part of any CSS rule. This decides in what part or section of your HTML document the rule will be applied.
+
+```css
+
+selector {
+    property: value;
+    ....
+}
+
+```
 
 ## Simple Selectors
 
@@ -12,77 +21,111 @@ Select elements based on name, id, class
 
 ## Combinators
 
-Selectors are combined to form combinators. Combinators are used define the specificity of the selector.
+A combinator is a combination of two or more selectors used together. Combinators are used define the specificity of the selector.
 
 ### Descendant Selector (space)
 
+eg
+```css
+div p {
+    ...
+}
+```
+This will select all `p`s *under* all `div`s. `p`s in any child of the `div`s will also be included.
+
 ### Child Selector (>)
+
+eg
+```css
+div > p {
+    ...
+}
+```
+This will select all `p`s *directly under* all `div`s. `p`s nested inside any child of `div` will not be included.
 
 ### Adjacent Sibling Selector (+)
 
+eg
+```css
+div + p {
+    ...
+}
+```
+This will select `p`s that are *immediately* after `div`s - at the same level. No parent or child will be included.
+
 ### General Sibling Selector (~)
 
-
+eg
+```css
+div ~ p {
+    ...
+}
+```
+This will select `p`s that are *anywhere* after `div`s - at the same level. No parent or child will be included.
 
 ## Pseudo-classes
 
-Select based on some state of an element
+Pseudo-classes are selectors that are recognized in the browser without explicitly being defined in the web-page.
 
-### Anchor Pseudo-classes
+A pseudo-class can used by adding `:` before it.
 
-* `a:any-link`
-* `a:link`
-* `a:visited`
-* `a:hover`
-* `a:active`
+eg
+```css
+  a:active          /* active links */
+  div:hover         /* when mouse hovers over the <div> */
+  div:first-child   /* the first child inside the <div> */
+```
 
-### CSS Pseudo-classes
+### List of Pseudo-classes
 
-Pseudo-classes are classes that are recognized in the browser without explicitly being defined in the web-page 
-
-* `dir`(ltr | rtl) 
-* `empty`
-* `hover`
-* `has`(*selector*)
-* `is`(*selector*)
-* `lang`(*language*)
-* `not`(*selector*)
-* `root`
-* `target`
-* `where`(*selector*)
+* `:active`
+* `:any-link`
+* `:dir`(ltr | rtl) 
+* `:empty`
+* `:has`(*selector*)
+* `:hover`
+* `:is`(*selector*)
+* `:lang`(*language*)
+* `:link`
+* `:not`(*selector*)
+* `:root`
+* `:state`()
+* `:target`
+* `:visited`
+* `:where`(*selector*)
 
 /* for child */
 
-* `first-child`
-* `last-child`
-* `nth-child`
-* `nth-last-child`
-* `only-child`
+* `:first-child`
+* `:last-child`
+* `:nth-child`()
+* `:nth-last-child`()
+* `:only-child`
 
 /* for of-type */
 
-* `first-of-type`
-* `last-of-type`
-* `nth-of-type`
-* `nth-last-of-type`
-* `only-of-type`
+* `:first-of-type`
+* `:last-of-type`
+* `:nth-of-type`()
+* `:nth-last-of-type`()
+* `:only-of-type`
 
 /* Input */
 
-* `checked`
-* `disabled`
-* `enabled`
-* `focus`
-* `focus-visible`
-* `in-range`
-* `inderminate`
-* `invalid`
-* `optional`
-* `out-of-range`
-* `read-only`
-* `read-write`
-* `required`
-* `valid`
+* `:checked`
+* `:disabled`
+* `:enabled`
+* `:focus`
+* `:focus-visible`
+* `:in-range`
+* `:inderminate`
+* `:invalid`
+* `:optional`
+* `:out-of-range`
+* `:read-only`
+* `:read-write`
+* `:required`
+* `:valid`
 
 ## CSS Pseudo Elements
 
@@ -99,7 +142,6 @@ Pseudo Elements are elements that the browser recognizes even though they are no
 * `::selection`
 * `::spelling-error`
 * `::target-text`
-
 * `::backdrop`
 * `::cue`
 * `::highlight`
