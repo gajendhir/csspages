@@ -4,8 +4,6 @@
 
 Values are regularly used in CSS, sometimes in absolute units and in other times in relative units.
 
-CSS provides a list of units from which you can select.
-
 ## Relative Units
 
 ### Font Related
@@ -28,13 +26,13 @@ CSS provides a list of units from which you can select.
 
 | Unit | Name |Equivalent to |
 |--|--|--|
-| cm | Centimeters | 1cm = 37.8px = 25.2/64in |
-| mm | Millimeters | 1mm = 1/10th of 1cm |
-| Q | Quarter-millimeters | 1Q = 1/40th of 1cm |
+| cm | Centimeters | 1cm = 37.8px = 1/2.54 of 1in |
+| mm | Millimeters | 1mm = 1/10 of 1cm |
+| Q | Quarter-millimeters | 1Q = 1/40 of 1cm |
 | in | Inches | 1in = 2.54cm = 96px |
-| pc | Picas | 1pc = 1/6th of 1in |
-| pt | Points | 1pt = 1/72nd of 1in |
-| px | Pixels | 1px = 1/96th of 1in |
+| pc | Picas | 1pc = 1/6 of 1in |
+| pt | Points | 1pt = 1/72 of 1in |
+| px | Pixels | 1px = 1/96 of 1in |
 
 ### Angles
 
@@ -44,9 +42,8 @@ CSS provides a list of units from which you can select.
 |--|--|--|
 | deg | Degree | 360deg = 1 full circle |
 | grad | Gradian | 400grad = 1 full circle |
-| rad | Radian | 3.14 rad = 1 full circle <br/> 2π = 1 full circle |
+| rad | Radian | 6.2832rad = 1 full circle <br/> (π approx = 3.1416) |
 | turn | Turn | 1 turn = 1 full cirle |
-
 
 ### Time
 
@@ -60,6 +57,12 @@ CSS provides a list of units from which you can select.
 ### Frequency Units
 
 `Hz`, `kHz`
+
+| unit | name | equivalent to |
+|--|--|--|
+| Hz | Hertz | 1Hz = 1/1000 of 1 kHz |
+| kHz | Kilo Hertz | 1KHz = 1000Hz |
+
 
 ### Resolution Units
 
