@@ -86,8 +86,8 @@ Media query starts with `@media`
 
 Nested queries are supported
 
+for eg
 ```css
-
 @media screen and (max-width: 800px) {
     ...
 
@@ -95,7 +95,6 @@ Nested queries are supported
         ...
     }
 }
-
 ```
 
 

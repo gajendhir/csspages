@@ -2,7 +2,7 @@
 
 # FlexBox Layout in CSS
 
-The **FlexBox layout** is initiated with the `display: flex;` property and effects the children of the element having this property.
+The **FlexBox layout** is initiated with the `display: flex;` property and effects the way the children of the element are laid-out on the webpage.
 
 ```css
 (CSS)
@@ -31,12 +31,7 @@ The **FlexBox layout** is initiated with the `display: flex;` property and effec
 
 `row` is the main axis by default.
 
-
 Default `width` is `100%` when main axis is row, and when the main axis is column the default `height` is the height required to render the content.
-
-
-
-
 
 ## properties for the flexbox group
 
