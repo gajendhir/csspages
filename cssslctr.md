@@ -80,7 +80,7 @@ eg
 
 * `:active`
 * `:any-link`
-* `:dir`(ltr | rtl) 
+* `:dir`(ltr|rtl) 
 * `:empty`
 * `:has`(*selector*)
 * `:hover`
