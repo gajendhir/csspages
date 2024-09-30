@@ -1,22 +1,17 @@
+<image src='./unitsmeas.png' width='100%'>
+
+
 [Home](./readme.md) 
 
 # Units in CSS
 
-Values are regularly used in CSS, sometimes in absolute units and in other times in relative units.
+Values are regularly used in CSS. These are specified sometimes in [absolute units](#absolute-units) and at other times in [relative units](#relative-units).
 
-## Relative Units
+CSS provides units for length, angle, frequency and within each category it supports conversion between the different units of measurement.
 
-### Font Related
+It is good to have an understanding of the various units or measurement that CSS supports. This allows web developers and designers to work within their comfortable zones.
 
-`em`, `ex`, `ch`, `rem`
-
-### Viewport Related
-
-`%`, `vw`, `vh`, `vmin`, `vmax`
-
-### Container Query Related
-
-`cqw`, `cqh`, `cqi`, `cqb`, `cqmin`, `cqmax`
+Below is a list of units supported in CSS...
 
 ## Absolute Units
 
@@ -63,10 +58,29 @@ Values are regularly used in CSS, sometimes in absolute units and in other times
 | Hz | Hertz | 1Hz = 1/1000 of 1 kHz |
 | kHz | Kilo Hertz | 1KHz = 1000Hz |
 
-
 ### Resolution Units
 
 `dpi`, `dpcm`, `dppx`
 
+
+## Relative Units
+
+As the name suggests, the values provided with these type of units are computed in relation to some other value. This other value could some parent element or the viewport itself.
+
+### Font Related
+
+`em`, `ex`, `ch`, `rem`
+
+### Viewport Related
+
+`%`, `vw`, `vh`, `vmin`, `vmax`
+
+### Container Query Related
+
+`cqw`, `cqh`, `cqi`, `cqb`, `cqmin`, `cqmax`
+
+> **Note**
+>
+> It is common practice to define an absolute value to the container element and then use relative values for the descendants of that element.
 
 [Home](./readme.md)
