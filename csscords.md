@@ -31,7 +31,7 @@ In a browser, the default point of origin is the top-left corner of the context.
 
 CSSOM maintains cordinates on 4 graphics contexts...
 
-![Cordinates](./scrview.svg)
+![Cordinates](./images/scrview.svg)
 
 When a browser renders a page, the cordinates of each pixel is maintains in 4 contexts.
 

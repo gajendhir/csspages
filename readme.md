@@ -19,7 +19,7 @@ This is a compilation of related items in CSS, something like a cheat-sheet.
 * [Text Styling in CSS](./csstext.md)
 * [Initial vs inherit](./cssprpty.md)
 * [At Rules in CSS](./cssatrule.md)
-* [CSSOM](./cssom.md)
+* [CSSOM - CSS Object Model](./cssom.md)
 * [New Features in CSS](./cssnewft.md)
 
 There are many websites that explain, in varying level of detail, how to use the different properties of CSS.

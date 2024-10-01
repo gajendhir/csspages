@@ -1,4 +1,4 @@
-<image src='./csscntqy.png' width='100%'/>
+<image src='./images/csscntqy.png' width='100%'/>
 
 [Home](./readme.md) 
 

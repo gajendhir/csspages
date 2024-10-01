@@ -2,16 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="151.42998mm"
+   height="196.17661mm"
+   viewBox="0 0 151.42998 196.17661"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="scrview.svg"
-   inkscape:export-filename="scrview.svg"
-   inkscape:export-xdpi="58.707005"
-   inkscape:export-ydpi="58.707005"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4627806"
-     inkscape:cx="205.77249"
-     inkscape:cy="69.388396"
+     inkscape:zoom="0.51717104"
+     inkscape:cx="164.35569"
+     inkscape:cy="399.28764"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -117,7 +114,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-20.094397,-32.143115)">
     <rect
        style="fill:#e6e6e6;stroke:#000000;stroke-width:3;stroke-opacity:0.320946;paint-order:stroke markers fill"
        id="rect4"
@@ -260,21 +258,17 @@
        id="path9" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-8);paint-order:stroke markers fill"
-       d="m 28.96635,140.65169 13.336836,2.87572"
-       id="path9-7"
-       sodipodi:nodetypes="cc" />
+       d="m 38.914584,142.46046 26.179101,6.85501"
+       id="path9-7" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-0);paint-order:stroke markers fill"
-       d="m 21.49143,178.65566 6.992938,-5.79406"
+       d="m 28.364755,178.11303 15.85591,-7.42195"
        id="path9-0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-0-1);paint-order:stroke markers fill"
        d="m 26.282736,207.31332 10.739936,-3.07337"
        id="path9-0-6"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="..\..\ds\Desktop\scrview.png"
-       inkscape:export-xdpi="58.707005"
-       inkscape:export-ydpi="58.707005" />
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

@@ -2,7 +2,7 @@
 
 # Display in CSS
 
-The property *display* provides several values that allow you to control the flow of layout in interesting ways.
+**display** is probably the single most used property to manipulate how the different elements will be rendered on the web-page.
 
 ## List of values for `display`
 
