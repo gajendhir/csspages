@@ -61,7 +61,7 @@ div {
 ```
 container query to set `font-size` for the `div` inside the `myname` container to `3em` if the feature `width` is greater than `30ch`.
 
-### Query Conditions
+### Feature Queries
 
 size-query...
 
