@@ -21,6 +21,7 @@ This is a compilation of related items in CSS, something like a cheat-sheet.
 * [At Rules in CSS](./cssatrule.md)
 * [CSSOM - CSS Object Model](./cssom.md)
 * [New Features in CSS](./cssnewft.md)
+* [Animation in CSS](./cssanim.md)
 
 There are many websites that explain, in varying level of detail, how to use the different properties of CSS.
 
