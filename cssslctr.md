@@ -89,7 +89,7 @@ eg
 * `:link`
 * `:not`(*selector*)
 * `:root`
-* `:state`()
+* `:state`(*identifier*)
 * `:target`
 * `:visited`
 * `:where`(*selector*)
@@ -98,16 +98,16 @@ eg
 
 * `:first-child`
 * `:last-child`
-* `:nth-child`()
-* `:nth-last-child`()
+* `:nth-child`(*position*)
+* `:nth-last-child`(*position*)
 * `:only-child`
 
 /* for of-type */
 
 * `:first-of-type`
 * `:last-of-type`
-* `:nth-of-type`()
-* `:nth-last-of-type`()
+* `:nth-of-type`(*position*)
+* `:nth-last-of-type`(*position*)
 * `:only-of-type`
 
 /* Input */
