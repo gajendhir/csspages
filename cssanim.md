@@ -1,8 +1,10 @@
+![Animate](./images/animate.png)
+
 [Home](./readme.md)
 
 # Animation in CSS
 
-Animation in CSS has two parts `@keyframes` and `animation-*` sub-properties
+Animation in CSS has two parts `@keyframes` and `animation-*` properties
 
 ## The `@keyframes` at-rule
 
@@ -34,15 +36,27 @@ It may as well specify multiple properties.
 
 ```css
     @keyframes colorit {
-        0% { background-color: red; left: 0px; }
-        50% { background-color: yellow; left: 50px; }
-        100% { background-color: silver; left: 200px;}
+        0% { 
+            background-color: red; 
+            left: 0px; 
+            top: 50px;
+        }
+        50% { 
+            background-color: yellow; 
+            left: 50px; 
+            top: 75px;
+        }
+        100% { 
+            background-color: silver; 
+            left: 200px;
+            top: 25px;
+        }
     }
 ```
 
-## `animation-*` sub-properties
+## `animation-*` properties
 
-Here is a list of sub-properties that can be used to control how the styles specified in the keyframes will be rendered.
+Here is a list of properties that can be used to control how the transition of styles will be rendered.
 
 - `animation-composition`
 - `animation-delay`
