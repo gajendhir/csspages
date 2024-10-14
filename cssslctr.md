@@ -71,7 +71,7 @@ In CSS, the selector for the class starts with a period (`.`) followed by the na
 Multiple class names can be marked in HTML by seperating them with a space.
 
 ```html
-    <div class='card cardinfo'>
+    <div class='card card-info'>
 ```
 
 When multiple classes are defined, then the styling rules will apply in the order they are listed. The latest value for a property will prevail if the property values are given in more than one class.
@@ -104,7 +104,7 @@ Attribute selector matches elements based on the value of some of its attribute.
 ## Selector List - Comma (`,`) separated
 
 ```css
-    div, li, .cardinfo {
+    div, li, .card-info {
         ...
     }
 ```
