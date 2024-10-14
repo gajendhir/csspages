@@ -8,7 +8,7 @@ This is a compilation of related items in CSS, something like a cheat-sheet.
 
 * [Selectors in CSS](./cssslctr.md)
 * [Units in CSS](./cssunits.md)
-* [Cordinate Systems](./csscords.md)
+* [Coordinate Systems](./csscords.md)
 * [Media Queries](./cssmdaqr.md)
 * [Container Queries](./csscntqr.md)
 * [Custom Properties and Variables](./cssvars.md)
@@ -22,6 +22,7 @@ This is a compilation of related items in CSS, something like a cheat-sheet.
 * [CSSOM - CSS Object Model](./cssom.md)
 * [New Features in CSS](./cssnewft.md)
 * [Animation in CSS](./cssanim.md)
+* [Box-Sizing in CSS](./cssboxsz.md)
 
 There are many websites that explain, in varying level of detail, how to use the different properties of CSS.
 
