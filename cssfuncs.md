@@ -169,9 +169,6 @@ Functions in CSS can be grouped...
 
 - `scroll`
 - `view`
-
-/- Easing -/
-
 - `linear`
 - `cubic-bezier`
 - `steps`
