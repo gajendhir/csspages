@@ -1,4 +1,8 @@
+<image src='./images/cssflex.svg' width='100%'/>
+
 [Home](./readme.md) 
+
+[<img src='./dslogo.png' align='left' width='100' alt='logo'/>](http://www.dataspec.info)
 
 # FlexBox Layout in CSS
 
@@ -158,7 +162,6 @@ Flexbox has some properties applicable at the parent and child levels that can b
 * `place-self`
 
 	This property overrides the [`place-items`](#placeitems) property defined for the flex container.
-
 
 
 [Home](./readme.md) 
