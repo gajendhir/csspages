@@ -163,5 +163,9 @@ Flexbox has some properties applicable at the parent and child levels that can b
 
 	This property overrides the [`place-items`](#placeitems) property defined for the flex container.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6b7afbc45804e6be53ff9663ecce5cd6f920896e
 
 [Home](./readme.md) 
