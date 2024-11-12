@@ -25,13 +25,13 @@
      inkscape:document-units="px"
      showguides="false"
      inkscape:zoom="1.6497963"
-     inkscape:cx="396.1095"
-     inkscape:cy="430.65922"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:cx="396.41256"
+     inkscape:cy="393.38189"
+     inkscape:window-width="1350"
+     inkscape:window-height="1040"
+     inkscape:window-x="80"
+     inkscape:window-y="17"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
@@ -103,7 +103,10 @@
        width="116.41666"
        height="63.5"
        x="46.66626"
-       y="48.113274" />
+       y="48.113274"
+       inkscape:export-filename="flex-row.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.273937;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect2"
@@ -276,7 +279,10 @@
        width="116.41666"
        height="63.5"
        x="46.66626"
-       y="116.27978" />
+       y="116.27978"
+       inkscape:export-filename="flex-row.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.273937;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect14"

@@ -131,7 +131,10 @@
          x="55.584621"
          y="78.608223">CSS</tspan></text><g
        id="g2"
-       transform="translate(21.175969,0.83960297)"><g
+       transform="translate(21.175969,0.83960297)"
+       inkscape:export-filename="cssflex.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><g
          id="g1"
          transform="translate(-19.161535,-8.1578814)"><rect
            style="fill:#ffd5d5;stroke:#000000;stroke-width:0.273937;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
